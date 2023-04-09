@@ -68,13 +68,12 @@
 - Duration of Project - 6 Days
 - Total Members who contributed - 5
   - <a style="color:#ffd41f" href="https://www.linkedin.com/in/saurav-sharma-931262178/">Saurav Sharma</a>
+  - <a style="color:#ffd41f" href="https://www.linkedin.com/in/yenda-vamshi-krishna-0826a2253/">Yenda Vamshi Krishna</a>
   - <a style="color:#ffd41f" href="https://www.linkedin.com/in/ajay-jamage-92b1b71b4/">Ajay Jamage</a>
   - <a style="color:#ffd41f" href="https://www.linkedin.com/in/sanjay-v-36aa761b1/">Sanjay V</a>
-  - <a style="color:#ffd41f" href="https://www.linkedin.com/in/yenda-vamshi-krishna-0826a2253/">Yenda Vamshi Krishna</a>
   - <a style="color:#ffd41f" href="#">Rahul Gupta</a>
-
 ---
-
+  - <a style="color:#ffd41f" href="https://github.com/sauravs4h/loved-bedroom-6386-">Main Project Repo</a>
 <br/>
 
 <h3 align="center" >Thankyou for your Time 💝</h3>
